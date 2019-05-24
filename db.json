@@ -1,5 +1,5 @@
 {
-  "menu": [
+  "menus": [
     { "id": 1, "title": "Điện thoại - Máy tính bảng" },
     { "id": 2, "title": "Tivi - Thiết bị nghe nhìn" },
     { "id": 3, "title": "Phụ kiện - Thiết bị số" },
