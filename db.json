@@ -1,8 +1,11 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "menu": [
+    { "id": 1, "title": "Điện thoại - Máy tính bảng" },
+    { "id": 2, "title": "Tivi - Thiết bị nghe nhìn" },
+    { "id": 3, "title": "Phụ kiện - Thiết bị số" },
+    { "id": 4, "title": "Laptop - Máy tính" },
+    { "id": 5, "title": "Máy ảnh - Quay phim" },
+    { "id": 6, "title": "Điện gia dụng - Điện lạnh" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
